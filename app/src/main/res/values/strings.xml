@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLITEExample</string>
+    <string-array name="Dept">
+        <item>Networks_and_Mobile</item>
+        <item>Computer_Science</item>
+        <item>Information_Technology</item>
+
+
+    </string-array>
+</resources>
